@@ -1,6 +1,6 @@
 # docker_simple_mpl
 
-On a Mac, using the XQuartz applilcation: Settings -> Security -> check "Allow connections from network clients"
+On a Mac, run the XQuartz applilcation and in its: Settings -> Security -> check "Allow connections from network clients"
 
 ```
 docker build -t mpl-simple1 .  
